@@ -1,7 +1,7 @@
 
 # Avraham Sabban
 
-### Security Engineer | Penetration Tester | Full-Stack Developer
+### Penetration Tester | Full-Stack Developer
 
 I am a Security Engineer with professional experience in web and application penetration testing, vulnerability assessment, remediation verification, and SOC 2 audit preparation.
 
