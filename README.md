@@ -1,43 +1,35 @@
+# AVRAHAM SABBAN
+**Penetration Tester**
 
-# Avraham Sabban
+Ahad Ha'Am St. 61, Petah Tikva · (+972) 058 5005617 · sabann2482gmail.com
+[LinkedIn](https://www.linkedin.com/in/avraham-sabban-889603210/)
+[Website](https://github.com/saban248/)
 
-### Penetration Tester | Full-Stack Developer
+## Skills
 
-I am a Security Engineer with professional experience in web and application penetration testing, vulnerability assessment, remediation verification, and SOC 2 audit preparation.
+python · js · css · html · react.js · node.js · c# · c++ · AI tools · metasploit · nmap · burp suite · nessus · Infrastructure  reconnaissance fuzz tools · exploitDB · google hacking
 
-I combine hands-on security testing with software development experience to understand application behavior, identify security weaknesses, and develop practical security tools.
+## Work History
 
-## Security Expertise
+### Penetration Tester — INX LTD
+*Hybrid · 2024 - 2026*
 
-- Web Application Penetration Testing
-- Mobile Application Penetration Testing
-- OWASP Top 10 and vulnerability assessment
-- Security scanning and remediation verification
-- SOC 2 audit preparation and security controls
+- Two years of experience at a company in the financial sector, conducting weekly penetration tests on a web application and a mobile application operating in a regulated environment. Developing tools in Python and C++ and utilizing tools for testing purposes.
+- Supporting development teams in completing tasks and enforcing controls to obtain SOC 2 certification  access and permissions management, information security and monitoring, and code change control processes (GitHub).
 
-## Technical Skills
+## Education
 
-**Security Tools:** Burp Suite, Nessus, Nmap, Wireshark
+- **ITSafe collage** — Penetration Tester (2021)
 
-**Programming:** Python, C++, Java, Kotlin, JavaScript, TypeScript
+## education  - details
 
-**Web Development:** React, Flask, Django, Frontend and Backend Development
+- **CCNA. networking** — CCNA course covering the OSI model, virtual network configuration, and in-depth study of all seven layers.
+- **Python / Offensive Python** — Comprehensive study of Python capabilities, developing projects and scripts, and hands-on practice in exploiting security vulnerabilities.
+- **Linux Essentials ** — Comprehensive Linux course covering system architecture, file permissions, file management, tool installation, and Bash scripting.
+- **Web Hacking** — Building full-stack web applications from scratch, understanding server-side architecture, and hands-on labs covering all OWASP Top 10 vulnerabilities.
+- **Infrastructure PT** — Advanced Web Application Penetration Testing, in-depth study of security tools, Linux and Windows internals, and hands-on practice in memory corruption and zero-day vulnerability research.
+- **Full-Stack web** — Full-Stack Web Development: Client-side and server-side architectures and programming languages, with an in-depth focus on UI/UX design and web accessibility.
+- **Mobile Hacking** — Introduction to Java and Kotlin for Android application development, Android system architecture and runtime libraries, and hands-on reverse engineering using tools such as JADX and Drozer.
 
-**Development Tools:** Git, AI-Assisted Development Tools
 
-## Featured Projects
-
-- [mrec0nn](https://github.com/saban248/mrec0nn) — Web reconnaissance
-- [Maportx1](https://github.com/saban248/Maportx1) — Network reconnaissance
-- [tuna_doc](https://github.com/saban248/tuna_doc) — C++ and Windows systems programming
-
-## Professional Experience
-
-**Security Engineer — INX**
-
-Experience in web and application penetration testing, Python-based security tooling, vulnerability remediation tracking, development workflow reviews, and SOC 2 audit preparation.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/avraham-sabban-889603210/)
-- [GitHub](https://github.com/saban248)
+<!-- EZRESUME:eyJuYW1lIjoiQVZSQUhBTSBTQUJCQU4iLCJ0aXRsZSI6IlBlbmV0cmF0aW9uIFRlc3RlciIsImNvbnRhY3QiOnsibG9jYXRpb24iOiJBaGFkIEhhJ0FtIFN0LiA2MSwgUGV0YWggVGlrdmEiLCJwaG9uZSI6IigrOTcyKSAwNTggNTAwNTYxNyIsImVtYWlsIjoic2FiYW5uMjQ4MmdtYWlsLmNvbSIsImxpbmtlZGluIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2F2cmFoYW0tc2FiYmFuLTg4OTYwMzIxMC8iLCJ3ZWJzaXRlIjoiaHR0cHM6Ly9naXRodWIuY29tL3NhYmFuMjQ4LyJ9LCJzdW1tYXJ5IjoiIiwic2tpbGxzIjpbInB5dGhvbiIsImpzIiwiY3NzIiwiaHRtbCIsInJlYWN0LmpzIiwibm9kZS5qcyIsImMjIiwiYysrIiwiQUkgdG9vbHMiLCJtZXRhc3Bsb2l0Iiwibm1hcCIsImJ1cnAgc3VpdGUiLCJuZXNzdXMiLCJJbmZyYXN0cnVjdHVyZSAgcmVjb25uYWlzc2FuY2UgZnV6eiB0b29scyIsImV4cGxvaXREQiIsImdvb2dsZSBoYWNraW5nIl0sIndvcmsiOlt7InJvbGUiOiJQZW5ldHJhdGlvbiBUZXN0ZXIiLCJjb21wYW55IjoiSU5YIExURCIsImxvY2F0aW9uIjoiSHlicmlkIiwiZGF0ZXMiOiIyMDI0IC0gMjAyNiIsImJ1bGxldHMiOlsiVHdvIHllYXJzIG9mIGV4cGVyaWVuY2UgYXQgYSBjb21wYW55IGluIHRoZSBmaW5hbmNpYWwgc2VjdG9yLCBjb25kdWN0aW5nIHdlZWtseSBwZW5ldHJhdGlvbiB0ZXN0cyBvbiBhIHdlYiBhcHBsaWNhdGlvbiBhbmQgYSBtb2JpbGUgYXBwbGljYXRpb24gb3BlcmF0aW5nIGluIGEgcmVndWxhdGVkIGVudmlyb25tZW50LiBEZXZlbG9waW5nIHRvb2xzIGluIFB5dGhvbiBhbmQgQysrIGFuZCB1dGlsaXppbmcgdG9vbHMgZm9yIHRlc3RpbmcgcHVycG9zZXMuIiwiU3VwcG9ydGluZyBkZXZlbG9wbWVudCB0ZWFtcyBpbiBjb21wbGV0aW5nIHRhc2tzIGFuZCBlbmZvcmNpbmcgY29udHJvbHMgdG8gb2J0YWluIFNPQyAyIGNlcnRpZmljYXRpb24gIGFjY2VzcyBhbmQgcGVybWlzc2lvbnMgbWFuYWdlbWVudCwgaW5mb3JtYXRpb24gc2VjdXJpdHkgYW5kIG1vbml0b3JpbmcsIGFuZCBjb2RlIGNoYW5nZSBjb250cm9sIHByb2Nlc3NlcyAoR2l0SHViKS4iXX1dLCJlZHVjYXRpb24iOlt7ImNyZWRlbnRpYWwiOiJJVFNhZmUgY29sbGFnZSIsImluc3RpdHV0aW9uIjoiUGVuZXRyYXRpb24gVGVzdGVyIiwiZGF0ZSI6IjIwMjEifV0sInByb2plY3RzIjpbXSwiY3VzdG9tIjpbeyJpZCI6ImN1c3RvbS1tdzB2YzkwaiIsInRpdGxlIjoiZWR1Y2F0aW9uICAtIGRldGFpbHMiLCJpdGVtcyI6W3siaGVhZGluZyI6IkNDTkEuIG5ldHdvcmtpbmciLCJkZXRhaWwiOiJDQ05BIGNvdXJzZSBjb3ZlcmluZyB0aGUgT1NJIG1vZGVsLCB2aXJ0dWFsIG5ldHdvcmsgY29uZmlndXJhdGlvbiwgYW5kIGluLWRlcHRoIHN0dWR5IG9mIGFsbCBzZXZlbiBsYXllcnMuIn0seyJoZWFkaW5nIjoiUHl0aG9uIC8gT2ZmZW5zaXZlIFB5dGhvbiIsImRldGFpbCI6IkNvbXByZWhlbnNpdmUgc3R1ZHkgb2YgUHl0aG9uIGNhcGFiaWxpdGllcywgZGV2ZWxvcGluZyBwcm9qZWN0cyBhbmQgc2NyaXB0cywgYW5kIGhhbmRzLW9uIHByYWN0aWNlIGluIGV4cGxvaXRpbmcgc2VjdXJpdHkgdnVsbmVyYWJpbGl0aWVzLiJ9LHsiaGVhZGluZyI6IkxpbnV4IEVzc2VudGlhbHMgIiwiZGV0YWlsIjoiQ29tcHJlaGVuc2l2ZSBMaW51eCBjb3Vyc2UgY292ZXJpbmcgc3lzdGVtIGFyY2hpdGVjdHVyZSwgZmlsZSBwZXJtaXNzaW9ucywgZmlsZSBtYW5hZ2VtZW50LCB0b29sIGluc3RhbGxhdGlvbiwgYW5kIEJhc2ggc2NyaXB0aW5nLiJ9LHsiaGVhZGluZyI6IldlYiBIYWNraW5nIiwiZGV0YWlsIjoiQnVpbGRpbmcgZnVsbC1zdGFjayB3ZWIgYXBwbGljYXRpb25zIGZyb20gc2NyYXRjaCwgdW5kZXJzdGFuZGluZyBzZXJ2ZXItc2lkZSBhcmNoaXRlY3R1cmUsIGFuZCBoYW5kcy1vbiBsYWJzIGNvdmVyaW5nIGFsbCBPV0FTUCBUb3AgMTAgdnVsbmVyYWJpbGl0aWVzLiJ9LHsiaGVhZGluZyI6IkluZnJhc3RydWN0dXJlIFBUIiwiZGV0YWlsIjoiQWR2YW5jZWQgV2ViIEFwcGxpY2F0aW9uIFBlbmV0cmF0aW9uIFRlc3RpbmcsIGluLWRlcHRoIHN0dWR5IG9mIHNlY3VyaXR5IHRvb2xzLCBMaW51eCBhbmQgV2luZG93cyBpbnRlcm5hbHMsIGFuZCBoYW5kcy1vbiBwcmFjdGljZSBpbiBtZW1vcnkgY29ycnVwdGlvbiBhbmQgemVyby1kYXkgdnVsbmVyYWJpbGl0eSByZXNlYXJjaC4ifSx7ImhlYWRpbmciOiJGdWxsLVN0YWNrIHdlYiIsImRldGFpbCI6IkZ1bGwtU3RhY2sgV2ViIERldmVsb3BtZW50OiBDbGllbnQtc2lkZSBhbmQgc2VydmVyLXNpZGUgYXJjaGl0ZWN0dXJlcyBhbmQgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzLCB3aXRoIGFuIGluLWRlcHRoIGZvY3VzIG9uIFVJL1VYIGRlc2lnbiBhbmQgd2ViIGFjY2Vzc2liaWxpdHkuIn0seyJoZWFkaW5nIjoiTW9iaWxlIEhhY2tpbmciLCJkZXRhaWwiOiJJbnRyb2R1Y3Rpb24gdG8gSmF2YSBhbmQgS290bGluIGZvciBBbmRyb2lkIGFwcGxpY2F0aW9uIGRldmVsb3BtZW50LCBBbmRyb2lkIHN5c3RlbSBhcmNoaXRlY3R1cmUgYW5kIHJ1bnRpbWUgbGlicmFyaWVzLCBhbmQgaGFuZHMtb24gcmV2ZXJzZSBlbmdpbmVlcmluZyB1c2luZyB0b29scyBzdWNoIGFzIEpBRFggYW5kIERyb3plci4ifV19XSwiY292ZXJMZXR0ZXIiOnsicmVjaXBpZW50TmFtZSI6IkFsZXggUml2ZXJhIiwicmVjaXBpZW50VGl0bGUiOiJFbmdpbmVlcmluZyBNYW5hZ2VyIiwiY29tcGFueSI6IkFjbWUgQ29ycCIsImNvbXBhbnlBZGRyZXNzIjoiTWlhbWksIEZMIiwiZGF0ZSI6IiIsInNhbHV0YXRpb24iOiJEZWFyIEFsZXgsIiwiYm9keSI6IkknbSB3cml0aW5nIHRvIGFwcGx5IGZvciB0aGUgU2VuaW9yIFNvZnR3YXJlIEVuZ2luZWVyIHJvbGUuIEluIG15IGN1cnJlbnQgcG9zaXRpb24gSSBsZWQgYSBiaWxsaW5nLXN5c3RlbSBtaWdyYXRpb24gdGhhdCBjdXQgaW52b2ljZSBlcnJvcnMgNDAlLCBhbmQgSSdkIGxvdmUgdG8gYnJpbmcgdGhhdCBraW5kIG9mIGltcGFjdCB0byB5b3VyIHRlYW0uXG5cblJlcGxhY2UgdGhlc2UgcGFyYWdyYXBocyB3aXRoIHR3byBvciB0aHJlZSBvZiB5b3VyIG93bjogd2h5IHRoaXMgY29tcGFueSwgd2hhdCB5b3UgYnJpbmcsIGFuZCBvbmUgY29uY3JldGUgcmVzdWx0IHlvdSdyZSBwcm91ZCBvZi4iLCJjbG9zaW5nIjoiU2luY2VyZWx5LCJ9LCJtZXRhIjp7InRoZW1lIjoiY2xhc3NpYyIsImFjY2VudCI6IiMyNTYzZWIiLCJmb250Ijoic3lzdGVtIiwiYm9yZGVyIjoiaGFpcmxpbmUiLCJkZW5zaXR5IjoiY296eSIsInNlY3Rpb25PcmRlciI6WyJzdW1tYXJ5Iiwic2tpbGxzIiwid29yayIsImVkdWNhdGlvbiIsInByb2plY3RzIiwiY3VzdG9tLW13MHZjOTBqIl19fQ== -->
